@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'nokogiri'
+gem 'haml'
 
 gem 'sinatra', require: 'sinatra/base'
 #use this syntax when using a library within a gem
